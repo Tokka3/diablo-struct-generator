@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
 
 	for (int i = 0; i <= structSize; i+=4) {
 		
-		result += "int field_" + int_to_hex(i) + "\n";
+		result += "int field_" + int_to_hex(i) + ";\n";
 
 	
 	}
