@@ -1,0 +1,1 @@
+"# diablo-struct-generator" 
